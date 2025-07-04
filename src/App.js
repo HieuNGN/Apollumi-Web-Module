@@ -112,7 +112,7 @@ function App() {
   );
 
   const modes = {
-    White: { label: 'Day', color: '#F5F5F5' },          // Trắng nhạt
+    White: { label: 'Day', color: '#F4F4F4' },          // Trắng nhạt
     Black: { label: 'Night', color: '#3A5A5A' },            // Slate Gray nhẹ hơn
     Purple: { label: 'Subtle', color: '#A384A3' },        // Purple nhạt 
     Blue: { label: 'Relaxed', color: '#C0D8F0' },          // Light Blue nhạt
